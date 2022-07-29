@@ -1,0 +1,11 @@
+#!/usr/bin
+
+BRANCH=$(git rev-parse --abbrev-ref HEAD)
+
+if [[ $BRANCH == "main" ]]
+then
+   echo "ERROR: Commits not allowed on branch, $BRANCH" >&2
+   exit 1
+fi
+
+exit 0;
