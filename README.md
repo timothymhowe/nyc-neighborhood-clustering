@@ -4,10 +4,9 @@
 ---------------------
 
  * Introduction
+ * Contributors
+ * Goals
  * Requirements
- * Recommended modules
- * Installation
- * Configuration
- * Troubleshooting
- * FAQ
- * Maintainers
+ * Data
+ * Analysis
+ * Results
