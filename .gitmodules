@@ -1,0 +1,6 @@
+[submodule "data/raw/geoJSON/NYC_geojson"]
+	path = data/raw/geoJSON/NYC_geojson
+	url = git@github.com:timothymhowe/NYC_geojson.git
+[submodule "data/raw/geoJSON/NYC"]
+	path = data/raw/geoJSON/NYC
+	url = git@github.com:timothymhowe/NYC_geojson.git
