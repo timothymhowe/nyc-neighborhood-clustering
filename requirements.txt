@@ -1,0 +1,26 @@
+# Core data science
+numpy
+pandas
+geopandas
+
+# H3 hexagonal indexing
+h3
+h3pandas
+
+# Machine learning / clustering
+scikit-learn
+scipy
+
+# Spatial analysis
+libpysal
+esda
+
+# Visualization
+matplotlib
+seaborn
+folium
+plotly
+
+# Jupyter
+ipykernel
+jupyter

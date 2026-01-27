@@ -4,3 +4,10 @@ data/raw/pluto_22v1.csv
 
 *.html
 
+
+# Virtual environment
+.venv/
+
+# Large data files that need LFS
+data/mappluto.zip
+data/nyc_mappluto_25v3_shp/
